@@ -7,6 +7,7 @@ import "fontsource-roboto";
 import Copyright from "./Copyright";
 import Button from '@material-ui/core/Button';
 
+import "./Home.css";
 
 const Home = () => {
   const [productsBySell, setProductsBySell] = useState([]);
@@ -65,7 +66,7 @@ const Home = () => {
           </Button>
           </div>
 
-        {loading && <h3>Loading...</h3>}
+        {loading && <div className="loader"></div>}
       <div className="row">
         <div className="col-md-1"></div>
         <div className="col-md-10">
