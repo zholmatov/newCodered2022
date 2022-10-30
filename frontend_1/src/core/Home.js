@@ -56,15 +56,15 @@ const Home = () => {
     >
       <Search />
 
-      <div className='ml-3 mt-2' style={{ border: 'none' }}>
-          <Button  variant="contained" component="label" style={{ backgroundColor:"#6772E5", color: 'white' }}>
+      <div className='ml-3 mt-2' style={{ border: 'none', margin: 'auto' }}>
+          <Button  variant="contained" component="label" style={{ backgroundColor:"#6772E5", color: 'white', left: '40vw' }}>
             Upload Image
             <input type="file" accept="image/*"
               onChange={getImages
               }
             hidden/>
           </Button>
-          </div>
+        </div>
 
         {loading && <div className="loader"></div>}
       <div className="row">

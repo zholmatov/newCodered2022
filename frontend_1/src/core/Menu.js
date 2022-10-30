@@ -159,14 +159,14 @@ const MaterialAppBar = ({ history }) => {
         </MenuItem>
 
         <MenuItem>
-          <Link style={isActive(history, '/shop')} to='/shop'>
+          <Link style={isActive(history, '/')} to='/'>
             <IconButton aria-label='Shop' color='inherit'>
               <StorefrontIcon />
             </IconButton>
             Shop
           </Link>
-        </MenuItem>
-
+        </MenuItem> 
+      
         <MenuItem>
           <Link style={isActive(history, '/cart')} to='/cart'>
             <IconButton aria-label='Cart' color='inherit'>
@@ -177,7 +177,6 @@ const MaterialAppBar = ({ history }) => {
             Cart
           </Link>
         </MenuItem>
-
         {isAuthenticated() && isAuthenticated().user.role === 0 && (
           <MenuItem>
             <Link
@@ -277,14 +276,14 @@ const MaterialAppBar = ({ history }) => {
                 <Typography noWrap>Home</Typography>
               </IconButton>
             </Link>
-
+            {/*
             <Link style={isActive(history, '/shop')} to='/shop'>
               <IconButton aria-label='Shop' color='inherit'>
                 <StorefrontIcon />
                 <Typography noWrap>Shop</Typography>
               </IconButton>
             </Link>
-
+  */}
             <Link style={isActive(history, '/cart')} to='/cart'>
               <IconButton aria-label='Cart' color='inherit'>
                 <Badge badgeContent={itemTotal()} color='secondary'>
