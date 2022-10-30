@@ -10,7 +10,7 @@ app.post("/post", (req, res) => {
 
 app.get("/get-images/:image", async (req, res) => {
   const data = await compareImages(
-    "/Users/zholmatov/Desktop/" + req.params.image
+    "/Users/fernandoramirez/Desktop/codered/" + req.params.image
   );
   res.send(data);
 });

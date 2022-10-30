@@ -1,0 +1,266 @@
+[
+    {
+        "_id": 0,
+        "name": "Larry Black Velvet Double Chaise Sectional",
+        "description": "",
+        "price": 1249,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_0008_1copy_667c7720-db93-4296-b229-b8aa45ac778e_1200x.jpg?v=1649629993"
+    },
+    {
+        "_id": 1,
+        "name": "Larry Navy Velvet Double Chaise Sectional",
+        "description": "",
+        "price": 1249,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_0014_4copy_3e4c3fb4-8bde-4e7e-881e-79d2f06d2aa8_1200x.jpg?v=1649630293"
+    },
+    {
+        "_id": 2,
+        "name": "Lauren Gray Velvet Double Chaise Sectional",
+        "description": "",
+        "price": 1399,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/0G1A7973_1200x_4f30b763-ec02-4877-a70b-f3969d35dd53_1200x.jpg?v=1649630321"
+    },
+    {
+        "_id": 3,
+        "name": "Luxen Velvet Blue RAF Chaise Sectional",
+        "description": "",
+        "price": 1499,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/887ab280-3c96-43de-92c2-ae875e5f474b_d04171a9-4c17-4195-830f-3413171c8632_1200x.jpg?v=1649632112"
+    },
+    {
+        "_id": 4,
+        "name": "Luxen Gray Velvet RAF Chaise Sectional",
+        "description": "",
+        "price": 1499,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/d5434fa8-d5f4-4f06-a7c5-055ad86367c6_f44eb63b-0dd4-4c8d-bf65-62da05065038_1200x.jpg?v=1649631929"
+    },
+    {
+        "_id": 17,
+        "name": "Marcella Ivory Modular Sectional",
+        "description": "",
+        "price": 1299,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_5820_0de1480a-724f-468e-8e9e-2b42719fe147_1200x.jpg?v=1649632671"
+    },
+    {
+        "_id": 35,
+        "name": "Ariana Mustard Velvet Double Chaise Sectional [ETA: 10/30]",
+        "description": "",
+        "price": 1499,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_1158_1200x.jpg?v=1664919451"
+    },
+    {
+        "_id": 36,
+        "name": "Matilda Charcoal Velvet Double Chaise Sectional",
+        "description": "",
+        "price": 1499,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_7893copy_1200x.jpg?v=1664920029"
+    },
+    {
+        "_id": 37,
+        "name": "Matilda Green Velvet Double Chaise Sectional",
+        "description": "",
+        "price": 1499,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_7927copy_1200x.jpg?v=1664920419"
+    },
+    {
+        "_id": 50,
+        "name": "Lauren Pink Velvet Double Chaise Sectional",
+        "description": "",
+        "price": 1399,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/f1128b0f-d182-470c-aaba-6708e5521234_667adb1a-ab93-4023-b731-6680a47540df_1200x.jpg?v=1649630613"
+    },
+    {
+        "_id": 56,
+        "name": "Jester Black Velvet Double Chaise Sectional",
+        "description": "",
+        "price": 1499,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/MG_9832copy_1200x.jpg?v=1664918617"
+    },
+    {
+        "_id": 57,
+        "name": "Jester Cream Velvet Double Chaise Sectional",
+        "description": "",
+        "price": 1499,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/MG_9879copy_1200x.jpg?v=1664918672"
+    },
+    {
+        "_id": 58,
+        "name": "Elisha Black Velvet Double Chaise Sectional",
+        "description": "",
+        "price": 1399,
+        "category": {
+            "name": "Sectional"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_8651copy_1200x.jpg?v=1649628594"
+    },
+    {
+        "_id": 63,
+        "name": "Rosy Black Velvet Sofa & Loveseat",
+        "description": "",
+        "price": 1299,
+        "category": {
+            "name": "SofaLoveseat"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_2036_1200x.jpg?v=1664912654"
+    },
+    {
+        "_id": 64,
+        "name": "Rosy Navy Velvet Sofa & Loveseat",
+        "description": "",
+        "price": 1299,
+        "category": {
+            "name": "SofaLoveseat"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_2059_1200x.jpg?v=1664912717"
+    },
+    {
+        "_id": 65,
+        "name": "Fanci Black Velvet Sofa & Loveseat",
+        "description": "",
+        "price": 1599,
+        "category": {
+            "name": "SofaLoveseat"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_0496_1200x.jpg?v=1655499065"
+    },
+    {
+        "_id": 66,
+        "name": "Victoria Orange Velvet Sofa & Loveseat",
+        "description": "",
+        "price": 1499,
+        "category": {
+            "name": "SofaLoveseat"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/ec82fc5d-daea-4cdb-b42c-4d565918f226_1200x.jpg?v=1664915690"
+    },
+    {
+        "_id": 67,
+        "name": "Aster Black Velvet Sofa & Loveseat",
+        "description": "",
+        "price": 1399,
+        "category": {
+            "name": "SofaLoveseat"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/IMG_0555_1200x.jpg?v=1664912544"
+    },
+    {
+        "_id": 136,
+        "name": "Lauren Mocha Velvet Rectangle Ottoman",
+        "description": "",
+        "price": 349,
+        "category": {
+            "name": "Ottoman"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/00003236-PHOTO-2021-06-22-03-05-14_a833924e-44e4-4e91-a4da-c656db6ccf1f_1200x.jpg?v=1649630587"
+    },
+    {
+        "_id": 137,
+        "name": "Lauren Mustard Velvet Rectangle Ottoman",
+        "description": "",
+        "price": 349,
+        "category": {
+            "name": "Ottoman"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/00003243-PHOTO-2021-06-22-03-05-16_cf38e1d1-2d35-4eb9-a728-9dc4df52d75e_1200x.jpg?v=1649630492"
+    },
+    {
+        "_id": 138,
+        "name": "Lauren Gray Velvet Rectangle Ottoman",
+        "description": "",
+        "price": 349,
+        "category": {
+            "name": "Ottoman"
+        },
+        "quantity": 10,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/00003235-PHOTO-2021-06-22-03-05-14_1688cf2b-2c6d-401d-afb9-022b22d991cf_1200x.jpg?v=1649630132"
+    },
+    {
+        "_id": 139,
+        "name": "Lauren Maroon Velvet Rectangle Ottoman",
+        "description": "",
+        "price": 349,
+        "category": {
+            "name": "Ottoman"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/00003238-PHOTO-2021-06-22-03-05-14_1e3cbc21-37eb-4c30-9c35-98241c974e79_1200x.jpg?v=1649630474"
+    },
+    {
+        "_id": 140,
+        "name": "Lauren Green Velvet Rectangle Ottoman",
+        "description": "",
+        "price": 349,
+        "category": {
+            "name": "Ottoman"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/00003249-PHOTO-2021-06-22-03-05-18_835e7f9f-3a21-4ca0-8953-e7f0f4b95f7c_1200x.jpg?v=1649630373"
+    },
+    {
+        "_id": 141,
+        "name": "Lauren Gray Velvet Swivel Chair",
+        "description": "",
+        "price": 299,
+        "category": {
+            "name": "Accent Chair"
+        },
+        "quantity": 0,
+        "photo": "https://cdn.shopify.com/s/files/1/0637/4388/5544/products/NEK-9481copy_3cc0bd92-28ed-4d5e-af65-31446b8b1bb7_1200x.jpg?v=1649630456"
+    }
+]
