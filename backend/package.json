@@ -1,0 +1,19 @@
+{
+  "name": "full_stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jimp": "^0.16.2",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.6.0"
+  }
+}
